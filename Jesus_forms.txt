@@ -1,0 +1,1400 @@
+ISO	CaseForms_Jesus	Language	Latitude	Longitude
+aai	Same	Arifama-Miniafia	-9.15565	149.246
+aak	Different	Ankave	-7.19444	145.754
+aau	Same	Abau	-3.97222	141.324
+aaz	Same	Amarasi	-10.21751	123.96373
+abt	Different	Ambulas	-3.7801	143.059
+abx	Same	Inabaknon	12.4264	124.166
+aby	Different	Aneme Wake	-9.75911	148.479
+aca	Same	Achagua	4.38649	287.7995
+acd	Same	Gikyode	8.39478	0.56975
+ace	Same	Acehnese	3.90757	96.6032
+acf	Same	Saint Lucian Creole French	15.3947	298.6359
+ach	Same	Acoli	3.57738	32.5147
+acn	Same	Longchuan Achang	24.3479	97.7438
+acr	Same	Achi	15.073	269.6487
+acu	Different	Achuar-Shiwiar	-2.82646	282.7359
+ade	Same	Adele	8.16975	0.619185
+adh	Same	Adhola	0.73235	34.0341
+adi	Different	Bori-Karko	27.62812	94.3538
+adj	Same	Adioukrou	5.38228	-4.52522
+adl	Same	Galo	27.9805586	94.6884956
+aeb	Same	Tunisian Arabic	33.7966	9.56156
+aer	Same	Eastern Arrernte	-23.3583	135.046
+aeu	Same	Akeu	22.1959	101.0823
+aey	Same	Amele	-5.29126	145.687
+afr	Same	Afrikaans	-22	30
+agd	Different	Agarabi	-6.20604	145.917
+agg	Different	Angor	-3.7167	141.199
+agm	Different	Angaataha	-7.15012	146.352
+agn	Same	Agutaynen	10.5328	119.655
+agr	Different	Aguaruna	-5.30044	282.0782
+agt	Same	Central Cagayan Agta	17.9571	121.857
+agu	Same	Aguacateco	15.3307	268.6847
+agw	Same	Kahua	-10.6963	162.191
+agx	Different	Aghul	41.9242	47.5843
+ahk	Different	Akha	21.2309	100.964
+aia	Same	Arosi	-10.2441	161.432
+aii	Same	Assyrian Neo-Aramaic	36.75	43
+aim	Different	Aimol	24.6437	94.3556
+aji	Same	Ajië	-21.3029	165.468
+ajz	Same	Amri Karbi	26.024	91.482
+akb	Same	Batak Angkola	1.66127	99.60248
+ake	Same	Akawaio-Ingariko	6.16277	299.138
+akh	Different	Angal Heneng	-6.13347	143.478
+akp	Same	Siwu	7.23811	0.44362
+ald	Same	Alladian	5.22371	-4.42647
+alj	Same	Alangan	13.0982	121.022
+aln	Different	Gheg Albanian	42.317	21.3837
+alp	Same	Alune	-3.11477	128.394
+alq	Different	Algonquin	47.3876	282.4742
+alt	Different	Southern Altai	50.1347	86.8705
+aly	Same	Alyawarr	-21.0427	136.835
+alz	Same	Alur	2.36213	31.0016
+ame	Different	Yanesha'	-10.5454	284.685
+amf	Different	Hamer-Banna	5.06515	36.5176
+amh	Different	Amharic	11.708182	39.543456
+amk	Same	Ambai	-1.88126	136.526
+amm	Same	Ama (Papua New Guinea)	-4.20192	141.658
+amn	Different	Amanab	-3.51516	141.178
+amp	Same	Alamblak	-4.66307	143.316
+amr	Different	Amarakaeri	-12.4931	289.4467
+amu	Same	Guerrero Amuzgo	16.77226	261.81047
+amx	Same	Anmatyerre	-22.2853	133.286
+anm	Same	Anal	24.0506	94.2806
+ann	Same	Obolo	4.62851	7.81985
+anv	Same	Denya	5.97237	9.39989
+any	Same	Anyin	6.31781	-3.30532
+aoi	Same	Anindilyakwa	-13.99904	136.6415
+aoj	Same	Mufian	-3.57932	142.955
+aom	Different	Ömie	-9.03136	148.107
+aon	Same	Bumbita Arapesh	-3.65508	142.859
+aoz	Same	Uab Meto	-9.77284	124.144
+apb	Same	Sa'a	-9.60258	161.467
+ape	Same	Bukiyip	-3.47169	143.111
+apr	Same	Arop-Lokep	-5.31671	147.103
+apt	Same	Apatani	27.1933	93.7284
+apu	Same	Apurinã	-8.21692	293.2286
+apw	Same	Western Apache	33.8574	249.877
+apy	Same	Apalaí	1.49792	305.2543
+apz	Different	Safeyoka	-7.05417	146.09
+arb	Same	Standard Arabic	27.9625	43.8525
+are	Different	Western Arrarnta	-24.05052	133.24621
+arl	Different	Arabela	-1.96126	284.9388
+arn	Same	Mapudungun	-38.7392	288.723
+ary	Same	Moroccan Arabic	32.5	-7.5
+arz	Same	Egyptian Arabic	31	31
+asg	Same	Western-Kambari-Cishingini	9.88458	4.48564
+aso	Different	Dano	-5.92188	145.254
+ata	Same	Pele-Ata	-5.58045	151.05
+atb	Same	Zaiwa	24.1726	98.3643
+atd	Same	Ata Manobo	7.7789	125.499
+atg	Same	Ivbie North-Okpela-Arhe	7.15307	6.21209
+att	Same	Pamplona Atta	18.4738	121.3
+aui	Same	Anuki	-9.6692	149.822
+auy	Different	Awiyaana	-6.54079	145.76
+ava	Different	Avar	41.7047	46.558
+avt	Same	Au	-3.53277	142.105
+avu	Same	Avokaya	4.38639	29.9379
+awa	Same	Awadhi	27.5907	82.4663
+awb	Different	Awa (Papua New Guinea)	-6.65534	145.714
+awi	Same	Aekyom	-5.88478	141.532
+ayo	Same	Ayoreo	-19.220055	299.782505
+ayr	Different	Central Aymara	-17	291.5
+azj	Different	North Azerbaijani	40.97768	46.4737
+azg	Same	San Pedro Amuzgos Amuzgo	16.5198	261.9536
+azz	Same	Highland Puebla Nahuatl	20.1554	262.4444
+bak	Different	Bashkir	53.59671	56.55937
+bam	Same	Bambara	12.9	-7.65
+ban	Same	Balinese	-8.35714	115.075
+bao	Different	Waimaha	0.30416	289.8356
+bar	Different	Bavarian	47.9232	13.246
+bav	Same	Vengo	6.11403	10.4137
+bba	Same	Baatonum	9.63186	2.99607
+bbb	Same	Barai	-9.46246	147.899
+bbc	Same	Batak Toba	2.35498	99.1761
+bbj	Same	Ghomálá'	5.39619	10.352
+bbr	Same	Girawa	-5.35342	145.423
+bch	Same	Bariai	-5.5087	148.666
+bci	Same	Baoulé	5.42509	-4.76565
+bcl	Same	Coastal-Naga Bikol	13.7574	123.403
+bcw	Same	Bana	10.3535	13.6131
+bdd	Same	Bunama	-10.0761	151.066
+bdh	Same	Baka (South Sudan)	4.65943	29.59
+bea	Same	Beaver	56.7984	239.648
+bef	Different	Benabena	-6.09974	145.534
+bel	Different	Belarusian	53.2307	25.6038
+bem	Same	Bemba (Zambia)	-10.6122	29.2993
+ben	Different	Bengali	24	90
+beq	Same	Beembe	-3.95895	14.1
+bex	Same	Jur Modo	6.03321	29.974
+bfd	Same	Bafut	6.14153	10.1194
+bfo	Same	Malba Birifor	9.78465	-2.90623
+bgr	Same	Bawm Chin	22.4405233333	92.92553
+bgs	Same	Tagabawa	6.9712	125.175
+bgz	Same	Banggai	-1.58305	123.171
+bhg	Same	Binandere	-8.37433	147.884
+bhl	Same	Bimin	-5.38732	142.04
+bhp	Same	Bima	-8.57376	118.445
+bib	Same	Bissa	10.4257	-1.67332
+big	Different	Biangai	-7.33882	146.765
+bim	Same	Bimoba	10.4575	0.06121
+bis	Same	Bislama	-15.4	166.89
+biu	Different	Biete	24.273507	92.94342
+biv	Same	Southern Birifor	9.2873	-2.72672
+bjp	Same	Fanamaket	NA	NA
+bjr	Different	Binumarien	-6.22068	146.102
+bjv	Same	Nangnda	8.60006	17.2691
+bkd	Same	Talaandig-Binukid	8.15933	124.892
+bkq	Same	Bakairí	-14.2628	305.2966
+bku	Same	Buhid	12.6396	121.21
+bkv	Same	Bekwarra	6.73737	8.86489
+blh	Same	Kuwaa	7.54885	-9.9765
+blw	Same	Balangao	17.0994	121.272
+blz	Same	Balantak	-0.86809	123.289
+bmb	Same	Bembe	-4.49057	29.0507
+bmh	Same	Kein	-5.3373	145.483
+bmk	Same	Ghayavi	-10.011	149.84
+bmq	Same	Bomu	12.3816	-4.538
+bmr	Different	Muinane	-0.8652	287.5751
+bmu	Different	Burum-Mindik	-6.51663	147.333
+bnj	Same	Eastern Tawbuid	12.8968	121.177
+bnp	Same	Bola	-5.55792	150.095
+boa	Different	Bora	-2.000259	287.742934
+boj	Same	Anjam	-5.45899	145.717
+bom	Same	Berom	9.67037	8.81221
+bon	Same	Bine	-9.08879	142.893
+bov	Same	Tuwuli	7.31095	0.38008
+box	Same	Buamu	11.1687	-3.50303
+bpr	Same	Koronadal Blaan	6.20529	125.007
+bps	Same	Sarangani Blaan	6.03691	125.354
+bqc	Same	Boko (Benin)	10.5189	3.71771
+bqj	Same	Bandial	12.5258	-16.4245
+bqp	Same	Busa	9.91074	4.39929
+bre	Same	Breton	48.2452	-3.78934
+bru	Same	Eastern Bru	17.1311	105.671
+bsc	Same	Bassari-Tanda	12.4529	-13.3495
+bsn	Different	Barasana-Eduria	0.02193	289.192
+bsp	Same	Baga Sitemu	10.4793	-14.4756
+bss	Same	Akoose	4.9243	9.65522
+btd	Same	Batak Dairi	2.51438	98.2427
+bth	Same	Biatah Bidayuh	1.17596	110.254
+bto	Same	Iriga Bicolano	13.3896	123.331
+bts	Same	Batak Simalungun	3.04372	98.9083
+btt	Same	Bete-Bendi	6.62037	9.20189
+btx	Same	Batak Karo	2.12787	98.2517
+bud	Same	Ntcham	9.23971	0.599275
+bug	Same	Buginese	-4.47	119.977
+buk	Same	Bugawac	-6.67519	147.32
+bul	Same	Bulgarian	43.3646	25.047
+bum	Same	Bulu (Cameroon)	3.16141	11.6365
+bus	Same	Bokobaru	9.52724	3.80058
+bvr	Same	Burarra	-12.3061	134.365
+bwq	Same	Southern Bobo Madaré	11.5409	-4.26497
+bwu	Same	Buli (Ghana)	10.5763	-1.26748
+bxh	Same	Buhutu	-10.5074	150.18
+bxr	Different	Russia Buriat	50.85331	105.5637
+byr	Different	Baruya	-6.89261	145.818
+byx	Same	Qaqet	-4.45258	151.702
+bzd	Same	Bribri	9.39794	276.9461
+bzh	Same	Mapos Buang	-6.86672	146.774
+bzi	Same	Bisu	20.8542	99.9862
+bzj	Same	Belize Kriol English	17.3941	271.3719
+caa	Same	Chortí	14.818	270.7637
+cab	Same	Garifuna	15.3529	273.0909
+cac	Same	Chuj	15.8399	268.24
+caf	Same	Southern Carrier	53.1763	235.548
+cag	Same	Nivaclé	-22.8557	298.2394
+cak	Same	Kaqchikel	14.4662	269.0119
+cao	Same	Chácobo	-12.133	293.2836
+cap	Different	Chipaya	-18.73951	292.10367
+caq	Same	Car Nicobarese	9.18853	92.7671
+car	Same	Galibi Carib	5.83772	303.1677
+cas	Same	Mosetén-Chimané	-14.64448	292.16244
+cat	Same	Catalan	41.453	1.569
+cav	Same	Cavineña	-13.3544	293.3723
+cax	Same	Lomeriano-Ignaciano Chiquitano	-16.769554	298.182205
+cbc	Different	Carapana	0.06168	290.3535
+cbi	Different	Cha'palaa	0.71489	280.9492
+cbk	Same	Chavacano	7.435034	122.18849
+cbr	Different	Cashibo-Cacataibo	-8.70232	284.5794
+cbs	Same	Cashinahua	-9.72027	288.8267
+cbt	Different	Shawi	-5.63764	283.1748
+cbu	Different	Candoshi-Shapra	-4.23835	283.0653
+cbv	Different	Kakua	0.88778	290.4341
+cce	Same	Chopi	-24.8327	34.1097
+cco	Same	Comaltepec Chinantec	17.5909	263.555
+ceb	Same	Cebuano	8.38799	124.367
+ceg	Same	Chamacoco	-20.5899	301.7995
+cek	Same	Eastern Khumi Chin	21.3425	93.155
+ces	Different	Czech	49.873398	15.10437
+cfm	Same	Falam Chin	23.7892833333	92.3254633333
+cgc	Same	Kagayanen	10.4656	119.872
+cha	Same	Chamorro	13.438011	144.74474
+chd	Same	Highland Oaxaca Chontal	16.1849	264.2699
+che	Different	Chechen	43.5	45.5
+chf	Same	Tabasco Chontal	18.1713	267.2633
+chk	Same	Chuukese	7.346993	151.598607
+chq	Same	Quiotepec Chinantec	17.5621	263.398
+chr	Same	Cherokee	35.4664	276.837
+chu	Different	Church Slavic	43.7171	22.8442
+chv	Different	Chuvash	55.48701	47.16298
+chz	Same	Ozumacín Chinantec	17.6976	263.7751
+cjo	Same	Ashéninka Pajonal	-10.7583	285.7986
+cjp	Same	Cabécar	9.67031	276.5898
+cjs	Same	Shor	52.32607	88.4344
+cjv	Same	Chuave	-6.17824	145.139
+ckb	Different	Central Kurdish	35.6539	45.8077
+cko	Same	Anufo	10.2839	0.56021
+ckt	Different	Chukchi	68.6436	170.045
+cle	Same	Lealao Chinantec	17.3162	264.0735
+clu	Different	Caluyanun	12.0489	121.384
+cly	Same	Eastern Highland Chatino	16.2437	262.8474
+cme	Different	Cerma	10.1245	-4.94917
+cmo	Same	Central Mnong	12.6313	107.301
+cnh	Same	Haka Chin	22.8735	92.8208
+cni	Same	Asháninka	-11.9311	286.0927
+cnl	Same	Lalana Chinantec	17.58251	263.99355
+cnt	Same	Tepetotutla Chinantec	17.7115	263.4596
+cnw	Same	Ngawn Chin	21.93031	93.58348
+coe	Different	Koreguaje	0.92316	284.6525
+cof	Different	Tsafiki	-0.21181	280.7653
+cok	Same	Santa Teresa Cora	22.7102	255.3
+con	Different	Cofán	0.276675	282.9357
+cop	Same	Coptic	29.472	31.2053
+cor	Same	Cornish	50.5233	-4.18619
+cot	Same	Caquinte	-11.4812	286.5549
+cpa	Same	Palantla Chinantec	17.884	263.6593
+cpb	Same	Ucayali-Yurúa Ashéninka	-9.49424	286.8164
+cpc	Same	Ajyíninka Apurucayali	-9.82364	285.38053
+cpu	Same	Pichis Ashéninka	-10.47249	285.39719
+cpy	Same	South Ucayali Ashéninka	-10.37875	285.939694
+crh	Different	Crimean Tatar	45	34.08
+crm	Different	Moose Cree	51.0686	279.3088
+crn	Same	El Nayar Cora	22.4099	255.533
+crq	Same	Iyo'wujwa Chorote	-22.2067	297.3492
+crs	Same	Seselwa Creole French	-4.62314	55.4503
+crt	Same	Iyojwa'ja Chorote	-22.1896	296.7617
+crx	Same	Central Carrier	54.3768	235.672
+csk	Same	Jola-Esulalu	12.5089	-16.5539
+cso	Same	Sochiapam Chinantec	17.7985	263.3921
+csy	Same	Sizang Chin	23.8192	93.6884
+cta	Same	Tataltepec Chatino	16.2963	262.4689
+ctd	Same	Tedim Chin	23.6079	93.519
+ctp	Same	Western Highland Chatino	16.2495	262.6756
+ctu	Same	Chol	17.4897	267.5302
+cub	Different	Cubeo	1.32382	289.8061
+cuc	Same	Usila Chinantec	17.9184	263.5926
+cui	Same	Cuiba	6.19829	290.1803
+cuk	Same	San Blas Kuna	9.15686	281.6925
+cul	Same	Culina	-8.55268	289.3352
+cux	Same	Tepeuxila Cuicatec	17.756	263.212
+cwe	Same	Kwere	-6.50666	38.4449
+cwt	Same	Kuwaataay	12.48255	-16.74835
+cya	Same	Nopala Chatino	16.0954	262.8661
+cym	Same	Welsh	52	-4
+czt	Same	Zotung Chin	22.5298	93.29
+daa	Same	Dangaleat	12.1517	18.385
+dad	Same	Marik	-5.349	145.59
+dah	Same	Gwahatike	-5.64555	146.455
+dan	Same	Danish	54.8655	9.36284
+dar	Different	North-Central Dargwa	42.4257	47.4388
+ded	Different	Dedua	-6.38206	147.627
+des	Different	Desano	0.58157	290.5045
+deu	Same	German	48.649	12.4676
+dgc	Same	Casiguran-Nagtipunan Agta	16.2176	121.878
+dgi	Same	Northern Dagara	11.0441	-3.0124
+dgr	Same	Dogrib	63.17	242.75
+dgz	Same	Daga	-9.9747	149.263
+dhm	Same	Zemba	-17.2958	13.4424
+dig	Same	Digo	-4.62101	39.1752
+dik	Same	Southwestern Dinka	8.81115	28.0613
+dip	Same	Northeastern Dinka	9.27995	31.8392
+dis	Same	Dimasa	25.4198	93.1806
+dje	Same	Zarma	12.8554	2.41173
+djk	Same	Aukan	4.3126	305.3581
+djr	Different	Djambarrpuyngu	-12.021	135.59
+dks	Same	Southeastern Dinka	7.02206	31.285
+dnj	Same	Nuclear Dan	7.27	-8.15
+dob	Same	Dobu	-9.63239	150.825
+dop	Same	Lukpa	9.51949	1.66954
+dow	Same	Doyayo	8.68604	13.0768
+dru	Same	Rukai	22.7738	120.844
+dtp	Same	Kadazan Dusun	6.02998	116.681
+dts	Different	Toro So Dogon	14.40749	-3.10006
+due	Same	Umiray Dumaget Agta	14.8757	121.508
+dug	Same	Duruma	-4.09629	39.322
+duo	Same	Dupaninan Agta	17.3748	122.188
+dur	Same	Dii	7.77412	13.9884
+dwr	Different	Dawro	6.95	37
+dww	Same	Dawawa	-10.1692	149.999
+dyi	Same	Djimini Senoufo	8.36279	-4.45627
+dyo	Same	Jola-Fonyi	12.75752	-15.7354766667
+ebk	Same	Eastern Bontok	17.08	121.17
+efi	Same	Efik	4.89379	8.38121
+eka	Same	Ekajuk	6.45731	8.55058
+eko	Same	Koti	-16.4823	39.7602
+ell	Different	Modern Greek	38.36	23.13
+emi	Same	Mussau-Emira	-1.44105	149.624
+emp	Different	Northern Emberá	7.12761	282.426
+enb	Same	Markweeta	1.15018	35.5866
+eng	Same	English	53	-1
+enm	Same	Middle English	51.65	-1.11
+enx	Same	Enxet Sur	-23.427556	302.054374
+epo	Different	Esperanto	49.3273	2.81045
+eri	Same	Ogea	-5.37766	145.71
+ese	Same	Ese Ejja	-11.7268	292.485
+esi	Same	North Alaskan Inupiatun	69.582	216.23
+esk	Same	Seward Alaska Inupiatun	64.77955	198.19334
+ekk	Different	Estonian	58.55	25.82
+esu	Different	Central Alaskan Yupik	60.3062	198.514
+etr	Different	Edolo	-6.11618	142.65
+etu	Same	Ejagham	5.54442	8.90959
+eus	Different	Basque	43.2787	-1.31622
+eve	Different	Even	70.6687	130.914
+ewe	Same	Ewe	6.46061	0.814975
+ewo	Same	Ewondo	4.21141	11.93646
+eza	Same	Ezaa	NA	NA
+faa	Different	Fasu	-6.62687	143.284
+fad	Same	Wagi (Papua New Guinea)	-5.17834	145.726
+fai	Same	Faiwol	-5.4967	141.656
+fal	Same	South Fali	9.51408	13.6164
+fao	Same	Faroese	62.0732	-6.88497
+ffm	Same	Maasina Fulfulde	11.1324	-3.64763
+fij	Same	Fijian	-18	178.33
+fil	Different	Filipino	12.265	123.464
+fin	Different	Finnish	64.7628	25.5577
+fon	Same	Fon	7.15484	1.66495
+for	Same	Fore	-6.64473	145.5065
+fra	Same	French	48	2
+fry	Same	Western Frisian	53.143	5.86091
+fub	Same	Adamawa Fulfulde	8.140326	13.077338
+fue	Same	Borgu Fulfulde	9.801	3.988
+fuf	Same	Pular	12.1826	-12.7338
+fuh	Same	Western Niger Fulfulde	14.2471	-0.52004
+fuq	Same	Central-Eastern Niger Fulfulde	15.0907	8.43261
+fuv	Same	Hausa States Fulfulde	10.9972	11.1188
+gaa	Same	Ga	5.65488	-0.18598
+gag	Different	Gagauz	44.59876	28.02769
+gah	Different	Alekano	-6.03901	145.387
+gai	Different	Borei	-4.08697	144.715
+gam	Same	Kandawo	-5.73674	144.966
+gaw	Same	Nobonob	-5.06952	145.712
+gbi	Same	Galela	2.31461	128.44
+gbo	Same	Northern Grebo	5.17103	-8.1409
+gbr	Same	Gbagyi	9.29842	6.90495
+gde	Same	Gude	10.2138	13.403
+gdg	Same	Ga'dang	17.2238	121.455
+gdn	Same	Umanakaina	-9.89671	149.658
+gdr	Different	Wipi	-8.79741	143.064
+geb	Same	Kire	-4.25927	144.711
+gej	Same	Gen	6.25971	1.67727
+gfk	Same	Patpatar	-3.74711	152.493
+ghe	Different	Southern Ghale	28.106	84.8511
+ghs	Different	Guhu-Samane	-7.99922	147.228
+gid	Same	Gidar	9.874715	14.07845
+gil	Same	Gilbertese	0.179	173.64
+giz	Same	South Giziga	10.2809	14.1931
+gjn	Same	Gonja	8.48801	-0.72757
+gkn	Same	Gokana	4.61889	7.34457
+gkp	Same	Guinea Kpelle	7.93196	-8.98843
+gla	Same	Scottish Gaelic	56.7574	-5.24366
+gle	Same	Irish	53.2186	-7.61509
+glk	Same	Gilaki	37.1344	49.8359
+glv	Same	Manx	54.2604	-4.45437
+gmv	Different	Gamo	6.27645	37.23808
+gnb	Different	Gangte	24.5113	94.1681
+gnd	Same	Zulgo-Gemzek	10.827	14.0578
+gng	Same	Ngangam	10.2523	0.70509
+gnn	Different	Gumatj	-12.25254	136.83042
+gnw	Same	Western Bolivian Guaraní	-20.2819	295.8338
+gof	Different	Gofa	6.57645	37.05
+gog	Same	Gogo	-6.35951	35.4807
+gom	Different	Goan Konkani	15.2732	74.2098
+gor	Same	Gorontalo	0.62689	122.288
+got	Different	Gothic	46.9304	29.9786
+gqr	Same	Gor	8.0841	17.0713
+grc	Different	Ancient Greek	39.8155	21.9129
+grt	Different	Garo	25.2954	90.462
+gso	Same	Southwest Gbaya	4.70037	14.9569
+gub	Same	Guajajára	-4.69461	314.2919
+guc	Same	Wayuu	11.395566	287.800209
+gud	Same	Yocoboué Dida	5.40126	-5.12242
+gug	Different	Paraguayan Guaraní	-25.60551	302.91184
+guh	Same	Guahibo	5.81736	291.0161
+gui	Same	Eastern Bolivian Guaraní	-20.42	296.63
+guj	Different	Gujarati	22.687	71.0962
+guk	Same	Northern Gumuz	11.05	35.93
+gul	Same	Sea Island Creole English	33.6632	280.3964
+gum	Different	Guambiano	2.55849	283.418
+gun	Same	Mbyá Guaraní	-26.0188	307.289
+guo	Same	Guayabero	2.8969	288.156
+guq	Different	Aché	-25.5865	303.5303
+gur	Same	Farefare	11.0918	-0.81109
+guw	Same	Gun	6.48529	2.76767
+gux	Same	Gourmanchéma	11.6711	1.28489
+guz	Same	Gusii	-0.78872	34.76751
+gvc	Same	Kotiria	1.07554	290.4295
+gvf	Same	Golin	-6.2249	144.8505
+gvl	Same	Gulay	9.06629	17.3151
+gvn	Same	Kuku-Yalanji	-16.0036	145.188
+gwi	Same	Gwich'in	67.4307	217.037
+gya	Same	Northwest Gbaya	5.9503	15.2569
+gym	Different	Ngäbere	8.8251	277.6089
+gyr	Same	Guarayu	-15.8247	298.3066
+hae	Same	Eastern Oromo	8.67428	41.4395
+hag	Same	Hanga	9.33929	-1.57833
+hak	Same	Hakka Chinese	25	116
+hat	Same	Haitian	18.795135	287.863885
+hau	Same	Hausa	11.1513	8.7804
+haw	Same	Hawaiian	19.6297	204.57
+hay	Same	Haya	-1.70878	31.4846
+hch	Same	Huichol	21.954	255.938
+heb	Same	Modern Hebrew	31.1056	35.0179
+heg	Same	Helong	-10.2647	123.377
+heh	Same	Hehe	-7.71572	35.7255
+hif	Same	Fiji Hindi	-17.8148	177.772
+hig	Same	Kamwe	10.646	13.5136
+hil	Same	Hiligaynon	10.4018	122.974
+hin	Same	Hindi	25	77
+hix	Same	Hixkaryána	-0.16265	301.19847
+hla	Same	Halia	-5.26603	154.662
+hlt	Same	Nga La	23.312	92.83
+hmo	Same	Hiri Motu	-9.33333	147.083
+hmr	Different	Hmar	24.7534	93.5497
+hne	Same	Chhattisgarhi	20.3601	82.0483
+hnj	Same	Hmong Njua	22.5638	101.95
+hnn	Same	Hanunoo	12.4159	121.221
+hns	Same	Caribbean Hindustani	5.722918	304.666832
+hop	Same	Hopi	35.7653	249.465
+hot	Same	Hote	-7.07708	146.869
+hra	Different	Hrangkhol	24.4559	93.351
+hrv	Different	Croatian Standard	45.555	15.982
+hto	Same	Minica Huitoto	-1.54535	286.8893
+hub	Different	Huambisa	-3.99109	282.0203
+hui	Different	Huli	-5.97212	142.963
+hun	Different	Hungarian	46.9068585714	19.6555271429
+hus	Same	Huastec	21.6153	261.4972
+huu	Different	Murui Huitoto	-1.13669	286.1669
+huv	Same	San Mateo del Mar Huave	16.2129	264.9923
+hvn	Same	Hawu	-10.5522	121.847
+hwc	Same	Hawai'i Creole English	19.6287	204.563
+hye	Different	Eastern Armenian	40	45
+ian	Same	Iatmul	-4.30064	143.316
+iba	Same	Iban	2.09041	112.934
+ibo	Same	Igbo	4.62705	7.23441
+icr	Same	San Andres Creole English	12.55352	278.29575
+ifa	Same	Amganad Ifugao	16.9016	121.042
+ifb	Same	Batad Ifugao	16.8266	121.23
+ife	Same	Ifè	7.63568	1.58494
+ifk	Same	Tuwali Ifugao	16.6646	121.113
+ifu	Same	Mayoyao Ifugao	16.9984	121.29
+ify	Same	Keley-i Kallahan	16.7099	121.035
+ign	Same	Ignaciano	-15.1188	294.6007
+ike	Different	Eastern Canadian Inuktitut	62.1735	284.3861
+ikk	Different	Ika	6.36423	6.31058
+ikw	Same	Ikwere	5.04333	6.86651
+ilb	Same	Ila	-15.60807	26.45548
+ilo	Same	Iloko	15.9361	120.993
+imo	Different	Imbongu	-6.13629	144.026
+inb	Different	Colombian Inga	1.00313	283.1394
+ind	Same	Standard Indonesian	-7.33458	109.716
+ino	Different	Inoke-Yate	-6.32311	145.539
+iou	Different	Tuma-Irumu	-6.29221	146.609
+ipi	Different	Ipili	-5.42586	143.089
+iqw	Same	Ikwo	NA	NA
+iri	Same	Irigwe	9.85197	8.6525
+irk	Same	Iraqw	-4.19948	35.2939
+iry	Same	Iraya	13.381	120.65
+isd	Same	Isnag	18.2139	121.16
+isl	Different	Icelandic	63.4837	-19.0212
+ita	Same	Italian	43.0464	12.6489
+itv	Same	Itawit	17.7329	121.58
+ium	Same	Iu Mien	20.83	101.17
+ivb	Same	Ibatan	18.9398	121.909
+ivv	Different	Itbayat	20.77	121.85
+iws	Same	Sepik Iwam	-4.30928	142.117
+ixl	Same	Ixil	15.4569	269.1065
+izr	Same	Izere	9.5	8.7
+izz	Same	Izi	6.33	8
+jae	Same	Yabem	-6.67052	147.81
+jam	Same	Jamaican Creole English	18.13	282.7388
+jav	Same	Javanese	-7.001	109.287
+jbu	Same	Jukun Takum	7.20236	10.2576
+jic	Same	Tol	14.6686	272.9628
+jiv	Different	Shuar	-3.45136	281.8108
+jmc	Same	Machame	-3.29385	37.0703
+jra	Same	Jarai	13.6161	107.813
+jvn	Same	Caribbean Javanese	5.62695	305.3695
+kaa	Different	Kara-Kalpak	39.98005	63.32233
+kab	Same	Kabyle	36.4103	4.76137
+kac	Same	Southern Jinghpaw	25.4634	97.3278
+kal	Different	Kalaallisut	69.3761	307.136
+kan	Different	Kannada	13.5878	76.1198
+kao	Same	Xaasongaxango	14.1	-10.95
+kaq	Different	Capanahua	-6.63254	285.6187
+kat	Different	Georgian	41.850397	43.78613
+kaz	Different	Kazakh	51.17	71.454
+kbc	Same	Kadiwéu	-19.7222	302.418
+kbd	Same	Kabardian	43.5082	43.3918
+kbh	Same	Camsá	1.14537	283.1069
+kbm	Same	Iwal	-7.20938	146.983
+kbp	Same	Kabiyé	8.96816	0.495023
+kbq	Different	Kamano	-6.25829	145.728
+kbr	Different	Kafa	7.34022	36.1718
+kck	Same	Kalanga	-21.2887	27.401
+kdc	Same	Kutu	-7.23789	37.8623
+kde	Same	Makonde	-10.9906	39.5133
+kdh	Same	Tem	8.967	1.136
+kdi	Same	Kumam	1.74748	33.2116
+kdj	Same	Karamojong	2.45157	34.2761
+kdl	Same	Tsikimba	9.60496	4.88739
+kek	Same	Kekchí	15.3788	270.7548
+ken	Same	Kenyang	5.58288	9.55918
+kew	Different	West Kewa	-6.32097	143.73
+kez	Same	Kukele	6.70286	8.39343
+kff	Different	Koya	17.6772	81.2096
+kgf	Different	Kulungtfu-Yuanggeng-Tobo	-6.42586	147.536
+kgk	Same	Kaiwá	-24.589	305.3185
+kgp	Same	Kaingang	-27.7671	307.4606
+kha	Same	Khasi	24.977	91.9998
+khk	Different	Halh Mongolian	48.32397	106.28874
+khs	Different	Kasua	-6.64861	142.993
+khy	Same	Kele-Foma	0.36906	24.3098
+khz	Same	Keapara	-10.1342	147.95
+kia	Same	Kim	9.79442	15.8936
+kik	Same	Kikuyu	-0.29005	36.719
+kin	Same	Kinyarwanda	-1.56771	29.6441
+kir	Different	Kirghiz	42	74
+kix	Different	Khiamniungan Naga	26.20076	95.016799
+kjb	Same	Q'anjob'al	15.6846	268.6957
+kje	Same	Kisar	-8.05122	127.18
+kjh	Different	Khakas	50.73933	107.16939
+kjs	Different	East Kewa	-6.32989	143.931
+kkc	Same	Odoodee	-6.59222	142.486
+kki	Same	Kagulu	-6.38204	37.0534
+kkj	Same	Kako	3.79989	15.6282
+klt	Same	Nukna	-6.0177	146.969
+klv	Same	Maskelynes	-16.5073	167.818
+kma	Same	Konni	10.2368	-1.54376
+kmg	Same	Kâte	-6.4795	147.757
+kmh	Same	Kalam	-5.25216	144.585
+kmk	Same	Limos Kalinga	17.6081	121.381
+kmm	Different	Kom (India)	24.8688	94.534
+kmo	Same	Kwoma	-4.08721	142.664
+kmr	Same	Northern Kurdish	37	43
+kms	Same	Kamasau	-3.8503	143.842
+kmu	Different	Kanite	-6.38841	145.556
+kne	Same	Kankanaey	16.8548	120.689
+knf	Same	Mankanya	12.2615066667	-15.74389
+kng	Same	South-Central Koongo	-5.57722	14.4771
+knj	Same	Akateko	15.5932	268.1579
+knk	Same	Kuranko	9.49325	-10.6122
+knv	Different	Tabo	-8.09387	143.305
+kpf	Same	Komba	-6.16163	147.28
+kpg	Same	Kapingamarangi	1.039166	154.797223
+kpj	Same	Karajá	-11.1881	309.6508
+kpr	Same	Korafe-Yegha	-9.07	149.267
+kpv	Different	Komi-Zyrian	64.0527	54.946
+kpw	Same	Kobon	-5.16446	144.46
+kpx	Different	Mountain Koiali	-9.06973	147.384
+kpz	Same	Kupsabiny	1.33197	34.5991
+kqc	Same	Doromu-Koki	-9.56687	147.986
+kqe	Same	Kalagan	6.8126	125.328
+kqf	Same	Kakabai	-10.2976	150.027
+kql	Different	Kyenele	-4.66964	143.855
+kqo	Same	Konobo-Eastern Krahn	5.83555	-7.85454
+kqp	Same	Kimre	9.42071	16.9423
+kqs	Same	Northern Kissi	8.7283	-10.4063
+kqw	Same	Kandas	-4.3652	152.781
+kqy	Different	Koorete	5.80545	37.8679
+krc	Different	Karachay-Balkar	43.565	42.2606
+kri	Same	Krio	10.8811	-14.3204
+krj	Same	Kinaray-a	10.8131	122.297
+kru	Different	Kurukh	24.46442	86.46568
+ksb	Same	Shambala	-4.8	38.29
+ksc	Same	Bangad	17.2936	121.068
+ksd	Same	Kuanua	-4.30986	152.114
+ksf	Same	Bafia	4.72603	11.0982
+ksj	Different	Uare	-9.69571	147.687
+ksp	Same	Kaba	7.64972	16.7344
+ksr	Different	Borong	-6.56688	147.511
+kss	Same	Southern Kisi	8.32448	-10.3377
+ktb	Different	Kambaata	7.37582	37.9088
+ktj	Same	Plapo Krumen	4.56109	-7.30644
+kto	Same	Kuot	-3.06952	151.537
+ktu	Same	Kituba (Democratic Republic of Congo)	-2.29601	17.1548
+kua	Same	Kuanyama	-17.7176	16.58
+kub	Same	Kutep	7.07479	10.0916
+kud	Same	'Auhelawa	-10.0959	151.002
+kue	Same	Kuman	-5.90586	144.977
+kuj	Same	Kuria	-1.50636	34.5049
+kum	Different	Kumyk	43	47
+kup	Same	Kunimaipa	-8.09371	146.908
+kus	Same	Kusaal	10.9703	-0.38756
+kvj	Same	Psikye	10.677	13.569
+kvn	Different	Border Kuna	7.92993	282.8336
+kwd	Same	Kwaio	-8.93744	160.965
+kwf	Same	Kwara'ae	-8.75779	160.804
+kwi	Different	Awa-Cuaiquer	1.21652	281.6599
+kwj	Same	Kwanga	-3.74263	142.711
+kxc	Same	Konso	5.39111	37.53
+kxm	Same	Northern Khmer	14.4674	103.863
+kxw	Different	Konai	-5.66011	142.069
+kyc	Different	Kyaka	-5.52462	144.119
+kyf	Same	Kouya	7.27375	-6.5685
+kyg	Different	Keyagana	-6.47599	145.464
+kyq	Same	Kenga	11.6816	18.1464
+kyu	Same	Western Kayah	18.687	97.4877
+kyz	Same	Kayabí	-11.2747	304.4521
+kze	Different	Kosena	-6.46414	145.66
+kzf	Same	Da'a Kaili	-1.21051	119.527
+lac	Same	Lacandon	17.02093	268.57652
+lai	Same	Lambya	-9.49372	33.15852
+laj	Same	Lango (Uganda)	2.13867	33.0553
+lam	Same	Lamba	-12.3366	27.9026
+las	Same	Lama (Togo)	8.66954	0.833293
+lat	Different	Latin	41.9026	12.4502
+lav	Different	Latvian	56.826108	24.309118
+lbb	Same	Label	-4.46971	152.678
+lbj	Different	Leh Ladakhi	33.468	80.6013
+lbk	Same	Central Bontoc	17.08	120.92
+lcm	Same	Tungag	-2.52188	150.198
+ldi	Same	Laari	-4.25	14.9
+lee	Same	Lyélé	12.4305	-2.59229
+lef	Same	Lelemi	7.34549	0.50746
+enl	Same	Enlhet Norte	-22.54	301.02
+leh	Same	Lenje	-14.7192	28.2581
+lem	Same	Nomaande	4.5893	10.9157
+leu	Same	Kara (Papua New Guinea)	-2.81957	151.111
+lew	Same	Ledo Kaili	-1.03033	120.132
+lex	Same	Luang	-8.18378	127.944
+lgm	Same	Lega-Mwenga	-3.39007	28.2621
+lhm	Different	Lhomi	27.5948	87.7161
+lhu	Same	Lahu	21.2701	100.214
+lia	Same	West-Central Limba	9.52392	-12.3138
+lid	Same	Nyindrou	-2.1143	146.627
+lin	Same	Kinshasa Lingala	-4.409174	15.28532
+lip	Same	Sekpele	7.16751	0.5886
+lit	Different	Lithuanian	55.1429	23.9601
+ljp	Same	Lampung Api	-5.73463	105.037
+lmk	Same	Lamkang	24.1523	94.2706
+lmp	Same	Limbum	6.58608	10.9802
+lob	Same	Lobi	9.96122	-3.336
+log	Same	Logo	3.32608	29.8866
+lol	Same	Mongo	-1.54228	20.4259
+lom	Same	Loma (Liberia)	7.91585	-9.69906
+loq	Same	Lobala	2.04881	18.3667
+loz	Same	Lozi	-17.7052	24.7398
+lsi	Same	Lashi	26.0992	98.5481
+lsm	Same	Saamia	0.3652	34.0335
+lug	Same	Ganda	0.66884	32.15153
+luo	Same	Luo (Kenya and Tanzania)	-0.93296	34.4896
+lus	Same	Mizo	22.6138	92.6247
+lwo	Different	Luwo	7.35089	28.1378
+lww	Same	Lewo	-16.7612	168.334
+maa	Same	San Jerónimo Tecóatl Mazatec	18.1999	263.1167
+mad	Same	Madurese	-7	113
+maf	Same	Mafa	10.943	13.8181
+mah	Same	Marshallese	8.72	167.73
+mai	Same	Maithili	26.3817	86.2211
+maj	Same	Jalapa De Díaz Mazatec	18.0803	263.5023
+mak	Same	Makasar	-5.65551	119.838
+mal	Different	Malayalam	9.59208	76.7651
+mam	Same	Mam	14.8034	268.2769
+maq	Same	Chiquihuitlán Mazatec	18.0541	263.3341
+mar	Different	Marathi	17.9344	76.6665
+mas	Same	Masai	-3.1419	36.4573
+mau	Same	Huautla Mazatec	18.2556	263.276
+mav	Same	Sateré-Mawé	-3.63897	303.1251
+maw	Same	Mampruli	10.3884	-0.74675
+maz	Same	Central Mazahua	19.7357	259.982
+mbb	Same	Western Bukidnon Manobo	7.6682	124.825
+mbc	Same	Macushi	4.31861	299.7791
+mbd	Same	Dibabawon Manobo	7.85664	126.018
+mbf	Same	Baba Malay	1.75414	103.076
+mbh	Same	Mangseng	-5.89752	150.68
+mbi	Same	Ilianen Manobo	7.34448	124.766
+mbj	Same	Nadëb	-1.24449	293.6932
+mbl	Same	Maxakalí	-16.9402	319.2109
+mbs	Same	Sarangani Manobo	5.84903	125.499
+mbt	Same	Matigsalug Manobo	7.72124	125.16
+mca	Same	Maca	-25.0119	302.6306
+mcb	Same	Machiguenga	-12.1291	287.4983
+mcd	Same	Sharanahua	-9.8626	288.8768
+mcf	Same	Matsés	-5.73914	287.3719
+mck	Same	Mbunda	-14.603	21.9768
+mcn	Same	Masana	10.0606	15.4748
+mco	Same	Coatlán Mixe	16.9404	264.5341
+mcp	Same	Makaa	4.15471	13.0789
+mcq	Different	Ese	-9.09451	148.376
+mcu	Same	Donga Mambila	6.43829	11.41953
+mda	Same	Mada (Nigeria)	9.02294	8.34119
+mdy	Same	Male (Ethiopia)	5.91975	36.9892
+med	Same	Melpa	-5.62644	144.34
+mee	Same	Mengen	-5.47036	151.373
+mej	Same	Meyah	-1.18016	133.618
+mek	Same	Mekeo	-8.23853	146.586
+men	Same	Mende (Sierra Leone)	7.90935	-10.9926
+meq	Same	Merey	10.7458	14.09
+meu	Same	Motu	-9.67492	147.424
+mfe	Same	Morisyen	-20.2613	57.5517
+mfh	Same	Matal	10.9284	14.0474
+mfi	Same	Wandala	11.3169	13.8996
+mfk	Same	North Mofu	10.6834	14.1117
+mfq	Same	Moba	10.9496	0.159565
+mfy	Different	Mayo	26.4522	251.019
+mgc	Same	Morokodo	5.5103	30.0229
+mgh	Same	Makhuwa-Meetto	-11.9553	38.6874
+mgr	Same	Mambwe-Lungu	-8.86817	31.2269
+mhi	Same	Ma'di	3.62499	31.8471
+mhl	Same	Mauwake	-4.52416	145.394
+mhr	Different	Eastern Mari	55.8307	48.405
+mhx	Same	Maru	24.942535	99.8338
+mhy	Same	Ma'anyan	-2.1239	115.092
+mib	Same	Atatláhuca Mixtec	17.07133	262.32247
+mic	Different	Mi'kmaq	46	296
+mie	Same	Ocotepec Mixtec	17.144191	262.236781
+mif	Same	Mofu-Gudur	10.567	14.0314
+mig	Same	San Miguel El Grande Mixtec	17.046881	262.377518
+mih	Same	Chayuco Mixtec	16.42	262.17
+mil	Same	Peñoles Mixtec	17.0671	262.9899
+min	Same	Minangkabau	-0.896	100.44
+mio	Same	Pinotepa Nacional Mixtec	16.3043	262.0034
+miq	Same	Mískito	15.1576	275.7058
+mir	Same	Isthmus Mixe	16.9481	264.9319
+mit	Same	Southern Puebla Mixtec	18.2123	262.0428
+miy	Same	Ayutla Mixtec	16.96667	260.9033
+mjc	Same	San Juan Colorado Mixtec	16.46073	262.04554
+mjw	Same	Hills Karbi	25.7317	93.0462
+mkd	Different	Macedonian	41.5957	21.7932
+mkl	Same	Mokole	11.0438	3.05998
+mkn	Same	Kupang Malay	-10.2526	123.63
+mks	Same	Silacayoapan Mixtec	17.5541	261.8837
+mlh	Different	Mape	-6.59318	147.682
+mlp	Same	Bargam	-4.8723	145.756
+mlt	Different	Maltese	35.8884	14.4508
+mmn	Same	Mamanwa	9.44744	125.548
+mmo	Same	Mangga Buang	-6.99891	146.685
+mmx	Same	Madak	-3.34342	151.967
+mna	Same	Mbula	-5.66965	148.041
+mnb	Same	Muna	-5.40419	122.541
+mnf	Same	Mundani	5.68073	9.91533
+mnh	Same	Mono (Democratic Republic of Congo)	4.57915	19.8264
+mnk	Same	Mandinka	12.8165233333	-15.6539466667
+mnx	Same	Sougb	-1.49611	133.95
+moa	Same	Mwan	7.87533	-5.94577
+moc	Same	Mocoví	-28.097	299.5855
+mog	Same	Mongondow	0.64616	124.114
+moh	Same	Mohawk	43.72	285.33164
+mop	Same	Mopán Maya	16.3533	270.9327
+mor	Same	Moro	10.9194	30.2138
+mos	Same	Mossi	11.95	-1.32
+mox	Same	Molima	-9.57457	150.614
+mpg	Same	Marba	9.54	15.8
+mpm	Same	Yosondúa Mixtec	16.874	262.421
+mpp	Same	Migabac	-6.33237	147.713
+mps	Different	Dadibi	-6.65765	144.511
+mpt	Same	Mian	-4.70881	141.523
+mpx	Same	Misima-Paneati	-10.6821	152.696
+mqb	Same	Mbuko	10.7788	14.1677
+mqj	Same	Mamasa	-3.0811	119.484
+mqy	Same	Manggarai	-8.55748	120.329
+mrg	Different	Mising-Padam-Miri-Minyong	27.418	94.69
+mrw	Same	Maranao	7.79414	124.175
+zsm	Same	Standard Malay	3.08896	101.699
+msb	Same	Masbatenyo	12.21453	123.63579
+mse	Same	Musey	9.81612	15.4115
+msk	Same	Mansaka	6.79221	126.181
+msm	Same	Agusan Manobo	8.62731	125.742
+msy	Different	Aruamu	-4.28957	144.842
+mta	Same	Cotabato Manobo	6.39417	124.234
+mtg	Same	Una	-4.69676	140.1
+mti	Same	Maiwa (Papua New Guinea)	-9.69836	149.274
+mtj	Same	Moskona	-1.62201	133.145
+mto	Same	Totontepec Mixe	17.2157	263.9821
+mtp	Same	Wichí Lhamtés Nocten	-21.988	296.4029
+mua	Same	Mundang	9.83195	14.4751
+mug	Same	Musgu	10.8439	15.1065
+muh	Same	Mündü	4.22755	29.9967
+mur	Same	Murle	6.69756	33.988
+mux	Different	Bo-Ung	-5.8626	144.086
+muy	Same	Muyang	10.86047	14.21246
+mva	Same	Manam	-4.07921	145.033
+mvn	Same	Minaveha	-9.59922	150.501
+mvp	Same	Duri	-3.37081	119.871
+mwc	Same	Are	-9.67147	149.999
+mwl	Same	Mirandese	41.5375	-6.38371
+mwm	Same	Sar	8.50634	17.8785
+mwp	Different	Kala Lagaw Ya	-10.6748	142.196
+mwq	Same	Mün Chin	20.289	94.3929
+mwv	Same	Mentawai	-1.41092	98.9401
+mww	Same	Hmong Daw	21.5461	103.164
+mxb	Same	Tezoatlán Mixtec	17.6155	262.0998
+mxp	Same	Tlahuitoltepec Mixe	16.9634	263.8814
+mxq	Same	Juquila Mixe	16.8912	264.1516
+mxt	Same	Jamiltepec Mixtec	16.2279	262.1583
+mxv	Same	Metlatónoc Mixtec	17.1947	261.64862
+mya	Different	Burmese	20.7926	93.9665
+myb	Same	Mbay	8.23066	15.7328
+myk	Same	Mamara Senoufo	12.4871	-5.28245
+myu	Same	Mundurukú	-8.41095	302.309
+myv	Different	Erzya	52.8548	45.3901
+myw	Same	Muyuw	-9.195	152.731
+myx	Same	Masaaba	1.05906	34.2829
+myy	Different	Macuna	-0.14459	289.9251
+mza	Same	Santa María Zacatepec Mixtec	16.7003	262.0516
+mzh	Same	Wichí Lhamtés Güisnay	-23.1633	297.8243
+mzk	Same	Western Mambila	6.69736	11.3161
+mzl	Same	Mazatlán Mixe	17.0156	264.7167
+mzm	Same	Mumuye	8.90347	11.71545
+mzw	Same	Deg	8.43846	-2.28724
+mzz	Same	Maiadomu	-9.47132	150.76
+nab	Same	Southern Nambikuára	-14.3707	300.4813
+naf	Different	Nabak	-6.42709	146.966
+nak	Same	Nakanai	-5.59931	150.888
+nan	Same	Min Nan Chinese	24.5	118.17
+naq	Same	Nama (Namibia)	-25.0747	17.9767
+nas	Different	Naasioi	-6.46022	155.632
+nav	Same	Navajo	36.33	250.62
+naw	Same	Nawuri	8.45116	0.04947
+nbc	Different	Chang Naga	26.4336	94.9536
+nbe	Different	Konyak Naga	26.6823	95.0598
+nbl	Same	South Transvaal Ndebele	NA	NA
+nbq	Same	Nggem	-3.62735	139.011
+nbu	Same	Rongmei Naga	25.098	93.7869
+nca	Different	Iyo	-5.84161	146.092
+nch	Same	Central Huasteca Nahuatl	21.0963	261.5644
+ncj	Same	Northern Puebla Nahuatl	20.1356	262.0186
+ncl	Same	Michoacán Nahuatl	18.3412	256.639
+nct	Same	Chothe	24.3722	94.2408
+ncu	Same	Chumburung	8.15211	-0.2755
+ndc	Same	Ndau	-20.1239	33.1739
+nde	Same	Zimbabwean Ndebele	-20.2513	27.4096
+ndi	Same	Samba Leko	8.19236	11.7366
+ndj	Same	Ndamba	-8.40485	36.0271
+ndo	Same	Ndonga	-17.22	17.35
+ndp	Different	Ndo	2.68546	30.5652
+nds	Same	Eastern Low German	53.115373	12.391439
+ndz	Same	Ndogo	7.73028	27.5588
+neb	Same	Toura (Côte d'Ivoire)	7.76747	-7.33105
+nep	Different	Eastern Pahari	27.5947033333	87.6200833333
+nfa	Same	Dhao	-10.8098	122.658
+nfr	Same	Nafanan	8.00522	-2.51001
+ngc	Same	Ngombe (Democratic Republic of Congo)	1.45357	20.14148
+ngp	Same	Ngulu	-5.79734	37.6823
+ngu	Same	Central Guerrero Nahuatl	17.8583	260.9977
+nhd	Different	Chiripá	-25.6521	304.949
+nhe	Same	Eastern Huasteca Nahuatl	21.0639	262.0923
+nhg	Same	Tetelcingo Nahuatl	18.8854	261.107
+nhi	Same	Zacatlán-Ahuacatlán-Tepetzintla Nahuatl	20.0581	262.1026
+nho	Same	Takuu	-4.773094	157.032085
+nhr	Same	Naro	-22.0939	20.7458
+nhu	Same	Noone	6.37256	10.5707
+nhw	Same	Western Huasteca Nahuatl	21.3711	261.2289
+nhx	Same	Isthmus-Mecayapan Nahuatl	18.2	265.2453
+nhy	Same	Northern Oaxaca Nahuatl	18.1884	263.0252
+nia	Same	Nias	0.90691	97.4961
+nif	Different	Nek	-6.37697	146.841
+nii	Same	Nii	-5.763	144.518
+nij	Same	Ngaju	-1.58463	112.794
+nim	Same	Nilamba	-4.50002	34.3068
+nin	Same	Ninzo	8.95791	8.47328
+niq	Same	Nandi	0.793737	35.408478
+niy	Same	Ngiti	1.30455	30.2242
+njb	Same	Nocte Naga	27.152	95.3903
+njm	Same	Angami Naga	25.6841	93.8668
+njn	Same	Liangmai Naga	25.16	93.542
+njo	Different	Ao Naga	26.3241	94.3824
+njz	Different	Nyishi-Hill Miri	27.278263	93.675529
+nki	Different	Thangal Naga	25.3472	93.8396
+nko	Same	Nkonya	7.20316	0.3209
+nlc	Same	Nalca	-4.26068	139.883
+nld	Same	Dutch	52	5
+nma	Different	Maram Naga	25.4378	94.2205
+nmf	Different	East-Central Tangkhul Naga	25.0489	94.3567
+nmh	Same	Monsang Naga	24.5322	94.2164
+nmo	Same	Moyon	24.4793	94.3421
+nmw	Same	Nimoa	-11.2297	153.158
+nmz	Different	Nawdm	7.17037	0.58553
+nnb	Same	Nande	-0.24904	29.0243
+nng	Different	Maring Naga	24.2854	94.0723
+nnh	Same	Ngiemboon	5.56777	10.1266
+nnl	Same	Northern Rengma Naga	26.4492	94.5683
+nno	Same	Norwegian Nynorsk	NA	NA
+nnp	Different	Wancho Naga	26.2581	94.8936
+nnq	Same	Ngindo	-9.78145	37.9832
+nnw	Same	Southern Nuni	11.5186	-2.14385
+noa	Different	Woun Meu	8.5	282
+nob	Same	Norwegian Bokmål	61.112	8.886
+nog	Different	Nogai	44.89776	43.1656
+nop	Same	Numanggang	-6.39311	146.719
+not	Same	Nomatsiguenga	-11.5349	285.5629
+nou	Same	Ewage-Notu	-8.68756	148.405
+nph	Different	Phom Naga	26.4715	94.7476
+npi	Different	Nepali	28	85
+npl	Same	Nahuatl, Southeastern Puebla	18.39688	262.87345
+npo	Same	Pochuri Naga	25.4478	94.1119
+npy	Same	Napu	-1.43707	120.338
+nre	Same	Southern Rengma Naga	26.1178	94.6853
+nrf	Same	Jerriais	49.2123	-2.1325
+nri	Same	Chokri Naga	25.5636	94.2887
+nsa	Different	Sangtam Naga	25.8581	94.6279
+nse	Same	Nsenga	-15.3946	31.3544
+nsm	Same	Sumi Naga	25.9996	94.4235
+nsn	Same	Nehan	-4.56875	154.2
+nso	Same	Pedi	-24.7993	29.4718
+nss	Same	Nali	-2.14273	147.202
+nst	Same	Pangwa Naga	27.2572	96.3855
+nsu	Same	Sierra Negra Nahuatl	18.45	263.1
+ntp	Same	Northern Tepehuan	26.4348	252.621
+ntr	Same	Delo	7.90997	0.59728
+nus	Same	Nuer	8.13911	32.3829
+nuy	Same	Wubuy	-14.2623	135.753
+nvm	Same	Namiae	-9.18089	148.166
+nwb	Same	Nyabwa	6.87615	-6.84428
+nwi	Same	Southwest Tanna	-19.57953	169.35603
+nxd	Same	Ngando-Lalia	-0.14363	22.6231
+nya	Same	Nyanja	-14.8047	32.8108
+nyf	Same	Giryama	-3.30638	39.6648
+nyn	Same	Nyankole	-0.46364	30.548
+nyo	Same	Nyoro	0.95294	31.3493
+nyu	Same	Nyungwe	-16.4757	33.0233
+nyy	Same	Nyakyusa-Ngonde	-9.71018	33.7763
+nzm	Same	Zeme Naga	25.3499	93.6463
+obo	Same	Obo Manobo	7.29141	125.09
+ojb	Different	Northwestern Ojibwa	51.6192	272.2138
+ciw	Different	Chippewa	47.347	265.7262
+ojs	Different	Severn Ojibwa	53.9092	270.0669
+okv	Same	Orokaiva	-8.79019	148.09
+old	Same	Mochi	-3.33743	37.3357
+omw	Different	South Tairora	-6.35337	145.883
+ong	Same	Olo	-3.2929	142.131
+ons	Same	Ono	-6.19223	147.579
+ood	Same	Tohono O'odham	31.7973	248.005
+opm	Same	Oksapmin	-5.20797	142.177
+ory	Different	Odia	21	85
+oss	Different	Iron Ossetian	42.98	44.61
+ote	Same	Mezquital Otomi	20.2274	260.4436
+otm	Same	Eastern Highland Otomi	20.5991	261.9022
+otn	Same	Tenango Otomi	20.4262	261.8249
+otq	Same	Querétaro Otomi	20.1396	259.885
+ots	Same	Estado de México Otomi	19.8781	260.39
+oym	Same	Wayampi	1.73817	307.3113
+ozm	Same	Koonzime	3.25933	13.54152
+pab	Same	Parecís	-14.5929	302.5941
+pad	Same	Paumari	-5.78403	295.7197
+pag	Same	Pangasinan	15.9377	120.365
+pah	Same	Tenharim-Parintintin-Diahoi	-7.92626	298.064
+pam	Same	Pampanga	14.9603	120.502
+pan	Same	Eastern Panjabi	30.0368	75.6702
+pao	Same	Northern Paiute	40.0799	240.464
+pap	Same	Papiamento	12.48485	290.06012
+pbb	Different	Páez	2.61516	283.68746
+pbc	Same	Patamona	4.75826	300.4228
+pbi	Same	Parkwa	11.0206	14.0964
+pbl	Same	Mak (Nigeria)	9.37299	11.1337
+pck	Different	Paite Chin	24.0381	93.6136
+pcm	Same	Nigerian Pidgin	9.65873	4.21068
+pdc	Same	Pennsylvania German	40.030507	283.6789
+pdt	Same	Plautdietsch	49.578028	250.646132
+pes	Same	Western Farsi	32.9	53.3
+pfe	Same	Peere	7.82186	12.2518
+pio	Same	Piapoco	4.37718	291.4047
+pir	Different	Wa'ikhana	0.50714	290.4968
+pis	Same	Pijin	-9.567	160.137
+pjt	Different	Pitjantjatjara	-26.9704	131.357
+pkb	Same	Pokomo	-2.31587	40.2897
+plg	Different	Pilagá	-25.0058	299.8463
+pls	Same	San Marcos Tlalcoyalco Popoloca	18.74	262.4064
+plt	Same	Plateau Malagasy	-19.5907	47.1211
+plu	Same	Palikúr	3.63993	308.3754
+plw	Same	Brooke's Point Palawano	8.83891	117.871
+pma	Same	Paama	-16.47548	168.23693
+pmf	Same	Pamona	-1.62663	121.268
+pmx	Same	Poumei Naga	25.1944	94.4618
+pne	Same	Western Penan	3.4667	114.523
+poe	Same	San Juan Atzingo Popoloca	18.22245	262.62077
+poh	Same	Poqomchi'	15.3586	269.4187
+poi	Same	Highland Popoluca	18.198	265.0891
+pol	Different	Polish	51.8439	18.6255
+pon	Same	Pohnpeian	6.87212	158.223
+por	Same	Portuguese	39.91	-8.1
+pot	Different	Potawatomi	40.955	270.8119
+poy	Same	Pogolo	-8.72283	36.4148
+ppk	Same	Uma	-1.70416	119.968
+ppo	Different	Folopa	-6.86321	144.458
+pps	Same	San Luís Temalacayuca Popoloca	18.6812	262.4541
+prf	Same	Paranan	17	122.372
+pri	Same	Paicî	-21.096	165.15
+prk	Same	South Wa	22.8658	99.375
+prs	Same	Dari	31.0405	67.3593
+pse	Same	South Barisan Malay	-3.79673	103.137
+ptp	Same	Patep	-6.91988	146.639
+ptu	Same	Bambam	-3.02759	119.201
+pua	Different	Western Highland Purepecha	19.5392	257.846
+pwg	Same	Gapapaiwa	-9.73317	149.854
+pww	Same	Pwo Northern Karen	18.016	98.2709
+qub	Different	Huallaga Huánuco Quechua	-9.57135	284.406
+quc	Same	K'iche'	14.5278	268.8304
+quf	Different	Lambayeque Quechua	-6.1715	280.532
+qug	Different	Bolivar-North Chimborazo Highland Quichua	-1.36727	281.1479
+quh	Different	South Bolivian Quechua	-20.9201	293.6669
+qul	Different	North Bolivian Quechua	-14.4014	291.2106
+qup	Different	Southern Pastaza Quechua	-3.32733	283.473
+quw	Different	Tena Lowland Quichua	-0.76271	282.4596
+quy	Different	Ayacucho Quechua	-13.84714	285.67754
+quz	Different	Cusco Quechua	-14.0853	288.2337
+qva	Different	Ambo-Pasco Quechua	-10.5138	283.8865
+qvc	Different	Cajamarca Quechua	-7.09314	281.6786
+qve	Different	Eastern Apurímac Quechua	-14.1754	287.3314
+qvh	Different	Huamalíes-Dos de Mayo Huánuco Quechua	-9.15718	283.6628
+qvi	Different	Imbabura Highland Quichua	0.31776	281.6271
+qvm	Different	Margos-Yarowilca-Lauricocha Quechua	-9.84463	283.5019
+qvn	Different	North Junín Quechua	-11.2132	284.1872
+qvo	Different	Napo Lowland Quechua	-0.072525	283.6111
+qvs	Different	San Martín Quechua	-6.9582	283.3392
+qvw	Different	Huaylla Wanca Quechua	-12.1809	284.7945
+qvz	Different	Northern Pastaza Quichua	-1.88573	283.9611
+qwh	Different	Huaylas Ancash Quechua	-9.38709	282.2232
+qxh	Different	Panao Huánuco Quechua	-9.85887	284.5618
+qxl	Different	Tungurahua Highland Quichua	-1.35447	281.6047
+qxn	Different	Northern Conchucos Ancash Quechua	-8.97356	282.5854
+qxo	Different	Southern Conchucos Ancash Quechua	-9.30995	283.0146
+qxr	Different	Cañar-Azuay-South Chimborazo Highland Quichua	-2.48314	281.0328
+rad	Same	Rade	12.979	108.41
+rai	Same	Ramoaaina	-4.17306	152.451
+rar	Same	Southern Cook Island Maori	-21.23	200.22
+ria	Same	Riang (India)	23.6803	92.0321
+rim	Same	Nyaturu	-5.12263	34.6657
+rkb	Same	Rikbaktsa	-11.1887	301.8058
+rml	Same	Baltic Romani	60	38
+rmn	Same	Balkan Romani	42.67	21.17
+rmo	Different	Sinte-Manus Romani	48.7	9.4
+rmq	Same	Caló	41.424	0.6
+rmy	Different	Vlax Romani	46.09	18.16
+rnl	Different	Halam	23.819438	91.66491
+ron	Different	Romanian	46.3913	24.2256
+roo	Same	Rotokas	-5.94339	155.154
+rop	Same	Kriol	-18.135	137.669
+rro	Same	Waima	-8.67145	146.544
+rub	Same	Gungu	2.06754	31.4819
+ruf	Same	Luguru	-6.86828	37.5557
+run	Same	Rundi	-2.94	29.97
+rup	Same	Aromanian	40.616	21.2
+rus	Different	Russian	59	50
+rwo	Different	Rawa	-5.83155	145.937
+sab	Same	Buglere	8.57695	278.74352
+sag	Same	Sango	6.78584	20.1702
+sah	Different	Sakha	61.69744	133.98031
+san	Different	Sanskrit	20	77
+sas	Same	Sasak	-8.58349	116.284
+sat	Same	Santali	25.0317	87.8185
+sba	Same	Ngambay	8.57051	15.414
+sbd	Same	Southern Samo	12.713	-2.9052
+sbe	Same	Saliba	-10.6148	150.727
+sbl	Same	Botolan Sambal	15.2315	120.164
+sco	Same	Scots	55.886945	-3.710133
+sda	Same	Toraja-Sa'dan	-2.97144	119.829
+seh	Same	Sena	-19.7933	34.9829
+ses	Same	Koyraboro Senni Songhai	16.9634	-0.55187
+sey	Different	Secoya	-0.459785	284.4453
+sgb	Same	Mag-Anchi Ayta	15.1954	120.459
+sgw	Different	Sebat Bet Gurage	8.11879	37.9891
+sgz	Same	Sursurunga	-3.99078	152.768
+shi	Same	Tachelhit	29.7854	-7.77879
+shk	Same	Shilluk	9.85472	31.7926
+shp	Different	Shipibo-Conibo	-7.17105	285.1781
+shu	Same	Chadian Arabic	14.67	13.5
+sig	Same	Paasaal	10.2004	-1.8048
+sil	Same	Tumulung Sisaala	10.63451	-1.79707
+sim	Different	Mende (Papua New Guinea)	-3.67233	142.683
+sin	Same	Sinhala	8	81
+sja	Different	Epena	4.25877	282.6434
+sld	Same	Sissala of Burkina Faso	11.0916	-2.38217
+slk	Different	Slovak	48.545705	18.78479
+sll	Same	Salt-Yui	-6.26519	145.021
+slv	Different	Slovenian	46.2543	14.7766
+sme	Different	North Saami	68.725	22.1113
+smk	Same	Bolinao	16.3071	119.853
+sml	Same	Central Sama	7.004574	118.455978
+smo	Same	Samoan	-13.92	188.17
+smt	Different	Simte	24.5444	93.3265
+sna	Same	Shona	-17.20849	29.75725
+snc	Same	Sinaugoro	-9.79791	147.861
+snd	Same	Sindhi	26	69
+snf	Same	Noon	14.792	-16.9205
+snn	Different	Siona-Tetete	0.31733	283.9763
+snp	Same	Siane	-6.13188	145.247
+snw	Same	Selee	7.17462	0.42458
+sny	Same	Saniyo-Hiyewe	-4.4376	142.369
+som	Same	Somali	4.778704	45.152856
+sop	Same	Songe	-5.71993	25.2765
+soq	Same	Kanasi	-10.1658	149.751
+sot	Same	Southern Sotho	-28.78	27.89
+soy	Different	Miyobe	9.94366	1.33302
+spa	Different	Spanish	40.4414	-1.11788
+spl	Different	Selepet	-6.03532	147.234
+spp	Same	Supyire Senoufo	11.632	-5.87709
+sps	Same	Saposa	-5.64103	154.732
+spy	Same	Sabaot	1.01297	34.6664
+sqi	Different	Albanian	41	20
+sri	Different	Siriano	0.436515	289.816
+srm	Same	Saramaccan	4.54729	305.9762
+srn	Same	Sranan Tongo	5.83	304.67
+srp	Different	Serbian Standard	44.3238	21.9192
+srq	Same	Sirionó	-15.5298	296.0312
+ssd	Same	Siroi	-5.52893	145.994
+ssg	Same	Seimat	-1.2666667	144.25
+ssw	Same	Swati	-26	31.5
+ssx	Different	Samberigi	-6.7028	143.951
+stn	Same	Owa	-10.82553	162.30467
+stp	Same	Southeastern Tepehuan	23.1584	256.017
+stq	Same	Ems-Weser Frisian	53.117	7.721
+sua	Same	Sulka	-5.03471	151.891
+suc	Same	Western Subanon	7.79964	122.341
+sue	Same	Suena	-7.76339	147.534
+suk	Same	Sukuma	-3.16082	32.8765
+sun	Same	Sundanese	-6.89708	107.106
+sur	Same	Mwaghavul	9.47205	8.96522
+sus	Same	Susu	10.4046	-13.3628
+suz	Different	Sunwar	27.5201	86.2476
+swe	Same	Swedish	59.800634	17.389526
+swg	Same	Swabian	48.386796	9.987111
+swh	Same	Swahili	-8.25605	37.624
+swk	Same	Malawi Sena	-16.6183	34.991
+swp	Same	Suau	-10.6606	150.21
+sxb	Same	Suba	-0.95719	34.1033
+sxn	Same	Sangir	3	125.5
+syb	Same	Central Subanen	8.12701	123.018
+syc	Different	Classical Syriac	37.1129	42.1432
+szb	Same	Ngalum	-4.67682	141.03
+tab	Different	Tabasaran	42.0198	47.8379
+tac	Same	Lowland Tarahumara	27.4623	252.146
+taj	Different	Eastern Tamang	27.3239	87.0832
+tam	Different	Tamil	10.520219	78.825989
+taq	Same	Tamasheq	14.2038	-2.41269
+tar	Same	Central Tarahumara	27.5648	252.846
+tat	Different	Tatar	55.79592	49.11577
+tav	Different	Tatuyo	0.55582	289.4673
+taw	Same	Tai	-5.29223	144.66
+tbc	Same	Takia	-4.69057	145.975
+tbk	Same	Calamian Tagbanwa	12.0716	120.094
+tbl	Same	Tboli	6.20377	124.538
+tbo	Same	Tawala	-10.3115	150.644
+tby	Same	Tabaru	1.46563	127.633
+tbz	Same	Ditammari	10.1614	1.18045
+tcc	Same	Barabayiiga-Gisamjanga	-4.4131	35.2321
+tcs	Same	Torres Strait-Lockhart River Creole	-11.066	142.692
+tcz	Different	Thado Chin	24.096	93.722
+tdt	Same	Tetun Dili	-8.58405	125.583
+ted	Same	Tepo Krumen	5.16267	-7.66346
+tee	Same	Huehuetla Tepehua	20.6189	262.0653
+tel	Different	Telugu	16.4529	78.7024
+tem	Same	Timne	8.90294	-12.3331
+teo	Same	Teso	1.18321	33.9394
+ter	Same	Terena-Kinikinao-Chane	-20.6614	303.9671
+tet	Same	Tetum	-9.11217	125.528
+tew	Different	Rio Grande Tewa	35.9053	253.876
+tgk	Different	Tajik	38.8213	68.5549
+tgl	Different	Tagalog	14.06	121.747
+tgo	Same	Sudest	-11.5229	153.488
+tgp	Same	Movono	-15.5643	166.958
+tha	Same	Thai	14.192	100.671
+thk	Same	Tharaka	-0.13221	38.073
+tif	Same	Tifal	-5.03899	141.293
+tih	Same	Timugon Murut	5.1796	115.826
+tik	Same	Tikar	5.87004	11.6104
+tim	Different	Timbe	-6.06875	147.057
+tir	Different	Tigrinya	15.3359	38.9266
+tiy	Same	Tiruray	6.77321	124.127
+tke	Same	Takwane	-16.2276	36.249
+tku	Same	Upper Necaxa Totonac	20.236	262.19
+tlb	Same	Tobelo	1.0946	128.154
+tlf	Same	Telefol	-5.07444	141.731
+tlh	Same	Klingon	NA	NA
+tlj	Same	Talinga-Bwisi	0.676185	29.9494
+tmd	Same	Haruai	-5.09522	144.3375
+tna	Same	Tacana	-13.39249	291.95944
+tnc	Same	Tanimuca-Retuarã	-0.59023	289.6147
+tnk	Same	Kwamera	-19.5954	169.442
+tnn	Same	North Tanna	-19.3733	169.303
+tnp	Same	Whitesands	-19.5019	169.381
+tob	Same	Toba	-23.77	298.04
+toc	Same	Coyutla Totonac	20.5447	262.3148
+toh	Same	Gitonga	-23.7964	35.1577
+toi	Same	Tonga (Zambia)	-17.422325	27.103495
+toj	Same	Tojolabal	16.2572	268.2175
+ton	Same	Tonga (Tonga Islands)	-21.17	184.75
+too	Same	Xicotepec De Juárez Totonac	20.6532	262.2537
+top	Same	Papantla Totonac	20.5671	262.7446
+tos	Same	Highland Totonac	20.3798	262.3841
+tpa	Same	Taupota	-10.2275	150.373
+tpi	Same	Tok Pisin	-9.41971	147.303
+tpm	Same	Tampulma	9.75577	-1.35467
+tpp	Same	Pisaflores Tepehua	20.7039	261.9695
+tpt	Same	Tlachichilco Tepehua	20.704	261.8053
+tpz	Same	Tinputz	-5.58358	154.972
+tqb	Same	Tenetehara	-2.6123	311.7641
+trc	Same	Copala Triqui	17.1541	262.0174
+trn	Same	Trinitario-Javeriano-Loretano	-15.3331	294.5904
+tro	Same	Tarao	24.4003	94.1703
+trp	Different	Kok Borok	23.1916	91.4673
+trq	Same	San Martín Itunyoso Triqui	17.2428	262.0798
+tsg	Same	Tausug	5.12236	118.88
+tsn	Same	Tswana	-24.368	24.7587
+tso	Same	Tsonga	-23.5754	31.8105
+tsw	Same	Salka-Tsishingini	10.2882	5.11073
+tsz	Different	Purepecha	19.2467	258.369
+ttc	Same	Tektiteko	15.4599	267.8864
+tte	Same	Bwanabwana	-10.6599	151.034
+ttq	Same	Tawallammat Tamajaq	13.9878	4.47692
+tuc	Same	Mutu	-5.79405	148.014
+tue	Different	Tuyuca	0.39441	289.956485
+tuf	Different	Central Tunebo	6.8867	287.903
+tui	Same	Tupuri	10.0144	14.8697
+tuk	Different	Turkmen	37.08719	59.17574
+tum	Same	Tumbuka	-11.3297	33.3738
+tuo	Different	Tucano	0.579755	290.4237
+tur	Different	Turkish	39.8667	32.8667
+tvk	Same	Southeast Ambrym	-16.2975	168.211
+twi	Same	Twi	NA	NA
+twu	Same	Termanu	-10.7326	123.169
+txq	Same	Tii	-10.8425	122.963
+tyv	Different	Tuvinian	51.7	94.36667
+tzh	Same	Tzeltal	16.6384	267.7214
+tzj	Same	Tz'utujil	14.6351	268.7988
+tzo	Same	Tzotzil	16.6362	267.2612
+ubr	Same	Ubir	-9.59044	149.396
+ubu	Different	Umbu-Ungu	-5.9513	143.97
+udu	Same	Uduk	9.16012	34.2293
+uig	Different	Uighur	43.88	87.38
+ukr	Different	Ukrainian	49.796	29.945
+upv	Same	Uripiv-Wala-Rano-Atchin	-16.00951	167.34643
+ura	Same	Urarina	-4.44006	284.5789
+urb	Same	Urubú-Kaapor	-2.46455	313.7796
+urd	Same	Urdu	25	67
+urk	Same	Urak Lawoi'	7.5258	99.0768
+urt	Same	Urat	-3.60065	142.79
+usp	Same	Uspanteco	15.3648	269.1107
+uvh	Same	Uri	-6.41993	146.608
+uvl	Same	Lote	-5.954	150.911
+uzb	Different	Uzbek	39	66
+vag	Same	Vagla	9.33848	-2.31333
+vap	Same	Vaiphei	24.1378	93.7195
+var	Different	Huarijio	27.8685	251.563
+ven	Same	Venda	-22.188	29.9523
+vid	Same	Vidunda	-7.52674	36.9316
+vie	Same	Vietnamese	20.681188	105.774071
+viv	Same	Iduna	-9.34361	150.24
+vmy	Same	Ayautla Mazatec	18.0993	263.4048
+vun	Same	Vunjo	-3.42531	37.5847
+vut	Same	Vute	6.13603	11.8839
+waj	Different	Waffa	-6.55783	146.09
+wal	Different	Wolaytta	6.32668	37.7537
+wap	Same	Wapishana	2.58744	300.1979
+war	Same	Waray (Philippines)	11.4911	125.012
+wat	Same	Kaninuwa	-9.23148	150.253
+way	Same	Wayana	2.77537	305.5571
+wbm	Same	Zhenkang Wa	23.1024	99.108
+wbp	Different	Warlpiri	-20.1008	131.05
+wca	Same	Yanomám	2.48999	297.1478
+wed	Same	Wedau	-10.1246	150.172
+wer	Same	Weri	-7.71834	146.914
+whk	Same	Eastern Lowland Kenyah	1.56635	116.655
+wib	Same	Southern Toussian	10.877	-4.65678
+wiu	Different	Wiru	-6.35863	144.214
+wmt	Different	Walmajarri	-19.7229	126.113
+wmw	Same	Mwani	-12.5821	40.4601
+wnc	Different	Wantoat	-6.15216	146.513
+wnu	Same	Usan	-4.84265	145.362
+wob	Same	Wobe-Wè Northern	7.40391	-7.24617
+wol	Same	Wolof	15.2534	-15.383
+wos	Different	Hanga Hundi	-3.90364	142.849
+wrk	Same	Garrwa	-17.4504	137.72014
+wrs	Different	Waris	-3.139	140.931
+wsk	Same	Waskia	-4.57978	145.979
+wuv	Same	Wuvulu-Aua	-1.73938	142.851
+wwa	Same	Waama	10.5956	1.65318
+xal	Different	Oirad-Kalmyk-Darkhat	46.566667	45.316667
+xbi	Same	Kombio	-3.48467	142.694
+xbr	Same	Kambera	-9.88447	120.235
+xed	Same	Hdi	10.942	13.6881
+xho	Same	Xhosa	-31.0389	28.0769
+xla	Same	Kamula	-7.28798	142.639
+xnn	Same	Northern Kankanay	17.1057	120.786
+xon	Same	Konkomba	9.82224	0.2783
+xpe	Same	Liberia Kpelle	6.92048	-9.96128
+xrb	Same	Eastern Karaboro	10.4987	-4.52253
+xsb	Different	Tinà Sambal	15.5797	120.095
+xsi	Same	Sio	-5.96037	147.353
+xsm	Same	Kasem	11.0824	-1.39076
+xsr	Different	Solu-Khumbu Sherpa	27.674	86.9994
+xsu	Same	Sanumá	4.5	295.5
+xtd	Same	Diuxi-Tilantongo Mixtec	17.3596	262.6139
+xtm	Same	Magdalena Peñasco Mixtec	17.2837	262.4587
+xtn	Same	Northern Tlaxiaco Mixtec	17.4806	262.1651
+xuo	Same	Kuo	7.97771	15.4843
+yaa	Same	Yaminahua	-9.8846	288.4036
+yad	Same	Yagua	-3.42913	287.7814
+yal	Same	Yalunka	9.97186	-11.2836
+yam	Same	Yamba	6.535505	11.07711
+yan	Same	Mayangna	14.1259	275.6561
+yao	Same	Yao	-13.6119	35.2387
+yaq	Different	Yaqui	29.9446	249.319
+yby	Different	Yaweyuha	-6.1868	145.359
+ycn	Same	Yucuna	-0.76075	288.9967
+yim	Different	Yimchungru Naga	25.7675	94.8087
+yka	Same	Yakan	6.531023	122.021729
+yle	Same	Yele	-11.3796	154.127
+yli	Same	Angguruk Yali	-4.0836	139.457
+yml	Same	Iamalele	-9.45005	150.573
+yom	Same	Yombe	-5.1263	12.9657
+yon	Same	Yonggom	-6.42956	141.213
+yor	Same	Yoruba	7.15345	3.67225
+yrb	Different	Yareba	-9.50651	148.605
+yre	Same	Yaouré	6.95282	-5.57851
+yrk	Different	Tundra Nenets	66.1775	71.0234
+yss	Same	Yessan-Mayo	-4.15721	142.574
+yua	Different	Yucatec Maya	18.7757	271.0433
+yuj	Different	Karkar-Yuri	-3.74954	141.098
+yut	Same	Yopno	-5.94085	146.661
+yuw	Same	Yau-Nungon	-6.08274	146.841
+yuz	Different	Yuracaré	-16.7479	294.8776
+yva	Same	Yawa	-1.77196	136.263
+zaa	Same	Sierra de Juárez Zapotec	17.4219	263.3809
+zab	Same	Western Tlacolula Valley Zapotec	17.0332	263.4033
+zac	Same	Ocotlán Zapotec	16.8258	263.2737
+zad	Same	Cajonos Zapotec	17.1427	263.6648
+zae	Same	Yareni Zapotec	17.3406	263.2948
+zai	Same	Isthmus Zapotec	16.4548	265.1556
+zam	Same	Cuixtla-Xitla Zapotec	16.2197	263.3353
+zao	Same	Ozolotepec Zapotec	16.04	263.6314
+zar	Same	Rincón Zapotec	17.4451	263.6856
+zas	Same	Santo Domingo Albarradas Zapotec	17.0345	263.719
+zat	Same	Tabaa Zapotec	17.2822	263.7223
+zav	Same	Yatzachi Zapotec	17.1869	263.716
+zaw	Same	Mitla Zapotec	16.86849	263.70566
+zca	Same	Coatecas Altas Zapotec	16.5609	263.2664
+cmn	Same	Mandarin Chinese	40.0209	116.228
+zia	Same	Zia	-7.95814	147.579
+ziw	Same	Zigula-Mushungulu	-5.61864	38.41138
+zom	Same	Zou	24.0649	93.9253
+zos	Different	Francisco León Zoque	17.3654	266.6367
+zpc	Same	Choapan Zapotec	17.4371	264.1344
+zpi	Same	Santa María Quiegolani Zapotec	16.033	263.9514
+zpl	Same	Lachixío Zapotec	16.7215	263.0682
+zpm	Same	Mixtepec Zapotec	16.1724	263.7628
+zpo	Same	Amatlán Zapotec	16.2707	263.5997
+zpq	Same	Zoogocho Zapotec	17.2016	263.6567
+zpt	Same	San Vicente Coatlán Zapotec	16.2817	263.1333
+zpu	Same	Yalálag Zapotec	17.2134	263.7817
+zpv	Same	Chichicapan Zapotec	16.8459	263.4514
+zpz	Same	Texmelucan Zapotec	16.49197	262.91053
+zsm	Same	Standard Malay	3.08896	101.699
+zsr	Same	Southern Rincon Zapotec	17.3031	263.6225
+ztq	Same	Quioquitani-Quieri Zapotec	16.3416	263.8445
+zty	Same	Yatee Zapotec	17.2888	263.802
+zul	Same	Zulu	-28.9	30.2
+zyb	Same	Yongbei Zhuang	23.1	108.15
+zyp	Same	Zyphe	22.524	93.264
